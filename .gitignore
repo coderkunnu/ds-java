@@ -1,3 +1,4 @@
 # Mention files to ignore below
 out
+.DS_Store
 
