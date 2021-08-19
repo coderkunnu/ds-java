@@ -20,5 +20,6 @@ public class LinkedListTest {
         list.removeData();
         list.removeData();
         list.removeData();
+        Integer.parseInt("9999991".trim());
     }
 }
